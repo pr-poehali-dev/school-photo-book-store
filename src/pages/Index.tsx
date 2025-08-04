@@ -214,7 +214,7 @@ const Index = () => {
             <div className="group cursor-pointer">
               <div className="relative overflow-hidden rounded-lg">
                 <img 
-                  src="/img/e50109c2-c7ba-4cb1-80cd-0b8d436f4acd.jpg" 
+                  src="https://cdn.poehali.dev/files/d5924c44-8c95-44af-9d40-1767be634d90.jpg" 
                   alt="Старшая школа" 
                   className="w-full h-64 object-cover group-hover:scale-105 transition-transform duration-300"
                 />
