@@ -115,9 +115,7 @@ const Index = () => {
                   <Icon name="Heart" size={24} className="text-red-600" />
                 </div>
                 <CardTitle className="font-heading">Специальное образование</CardTitle>
-                <CardDescription>
-                  Деликатный подход к фотосъемке детей с особыми потребностями
-                </CardDescription>
+                <CardDescription>Деликатный подход к фотосъемке школ дополнительного образования </CardDescription>
               </CardHeader>
               <CardContent>
                 <ul className="space-y-2 text-sm text-gray-600">
